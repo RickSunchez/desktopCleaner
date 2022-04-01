@@ -1,4 +1,3 @@
-from nis import cat
 import tkinter as tk
 import tkinter.filedialog as fd
 
